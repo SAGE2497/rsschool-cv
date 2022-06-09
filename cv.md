@@ -18,19 +18,19 @@ I tend to develop myself in a wide range of areas which can supplement each othe
 **********
 
 * **Development** 
-+ HTML
-+ CSS
-+ JavaScript (Vanilla)
-+ Git/GitHub
-+ Visual Studio Code
+    + HTML
+    + CSS
+    + JavaScript (Vanilla)
+    + Git/GitHub
+    + Visual Studio Code
 
 * **Creative**
 
-+ Autodesk 3ds Max
-+ Adobe Photoshop
-+ Substance 3D Painter
-+ Figma
-+ V-Ray by Chaos Group
+    + Autodesk 3ds Max
+    + Adobe Photoshop
+    + Substance 3D Painter
+    + Figma
+    gitg+ V-Ray by Chaos Group
 
 ## Code Example
 **********
