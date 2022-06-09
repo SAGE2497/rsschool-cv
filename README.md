@@ -1,1 +1,1 @@
-https://sage2497.github.io/rsschool-cv/cvgitgi
+https://sage2497.github.io/rsschool-cv/cv
