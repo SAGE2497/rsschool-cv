@@ -30,7 +30,7 @@ I tend to develop myself in a wide range of areas which can supplement each othe
     + Adobe Photoshop
     + Substance 3D Painter
     + Figma
-    gitg+ V-Ray by Chaos Group
+    + V-Ray by Chaos Group
 
 ## Code Example
 **********
