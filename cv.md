@@ -17,11 +17,12 @@ I tend to develop myself in a wide range of areas which can supplement each othe
 ## Core Skills
 **********
 
-* **Develpment** 
+* **Development** 
 + HTML
 + CSS
 + JavaScript (Vanilla)
 + Git/GitHub
++ Visual Studio Code
 
 * **Creative**
 
@@ -30,3 +31,15 @@ I tend to develop myself in a wide range of areas which can supplement each othe
 + Substance 3D Painter
 + Figma
 + V-Ray by Chaos Group
+
+## Code Example
+**********
+
+```
+function average (a, b, c){
+    return (a + b + c)/3;
+}
+
+let result = average (24, 48, 96);
+alert (result);
+```
