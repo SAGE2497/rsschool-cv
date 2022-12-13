@@ -59,3 +59,8 @@ Also collaborated with game developers such as Polyphony Digital and EA Vancouve
     + FreeCodeCamp
     + Rolling Scopes School
     + Gripinsky 3D School
+
+## English
+**********
+
+B2 (IELTS: 6.5, passed 8 months ago)
