@@ -48,3 +48,14 @@ alert (result);
 
 In *parallel universe* I have created 3D models for industrial games such as Forza Horizon 5, Call of Duty: Modern Warfare 2 and God of War.
 Also collaborated with game developers such as Polyphony Digital and EA Vancouver.
+
+
+## Education
+**********
+
+* **University:** Inha University in Tashkent (IUT)
+* **Courses:**
+    + PROWEB
+    + FreeCodeCamp
+    + Rolling Scopes School
+    + Gripinsky 3D School
